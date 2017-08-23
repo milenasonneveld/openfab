@@ -19,9 +19,9 @@ Become a member of our awesome community, learn how to use the machines at our d
 How to join us? Fill in [this form](http://openfab.be/adhesion) and come to see us!
 
 Price:
-1. 25€/year .  
-2. 10€/jour ou 34€/mois pour l'accès à l'atelier.  
-3. Tarifs différents en fonction de la machine, nous vous conseillons d'amener votre matière première, nous avons un Brico (330 avenue de la Couronne) à proximité.  
+1. membership fees: 25€/year.  
+2. access to the FabLab: 10€/day or, if you want to get involved in the community, you can [become SuperUser](https://github.com/Ginsburg/gamification-fablab/blob/guide-superuser/Level-UP/guide-superuser.md) and pay 34€/month.  
+3. each machine got its own rate, we advice you to come with your own material, there is a Brico near the FabLab (330 avenue de la Couronne).  
 
 Enter the game!  
 
