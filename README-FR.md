@@ -77,7 +77,7 @@ Appels à projet
 
 ## Le parcours du membre
 
-![parcours membre of](https://user-images.githubusercontent.com/7775797/29620224-a4b69882-881d-11e7-9fdb-c59e2467f73a.png)
+![parcours membre of](https://user-images.githubusercontent.com/7775797/29622780-a30572ea-8824-11e7-9425-1c2fd508f919.png)
 
 
 > __"One adventure with many heroes."__  
