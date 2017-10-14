@@ -10,6 +10,25 @@ You bring snacks and or beer and come with your ideas.
 Videos are between 5 and 15 minutes, we like intermezzo's and discussions. 
 You can host the night, just be part of the slack, github or Meetup and give us the proposition!
 
+## 14 Oct 2017 @Openfab
+meetup: / 
+facebook: https://www.facebook.com/events/136439860421404/ 
+ 
+**Playlist:**
+
+Intro, a suggestion of a music friend
+- [Don't You Worry 'Bout A Thing - Jacob Collier](https://www.youtube.com/watch?v=pvKUttYs5ow&app=desktop)
+
+Cargo-bike -> generation -> energy
+
+- [The Biggest Cargo Bike in the World Is the Size of a Car](https://vimeo.com/75231395)
+- [Let's All Ditch Our Cars and Start Riding Cargo Bikes](https://www.wired.com/2017/05/yuba-supermarche/)
+- [Longest bicycle - Guinness World Records](https://www.youtube.com/watch?v=k-NpZQIQ6pE)
+- [Olympic Cyclist Vs. Toaster: Can He Power It?](https://www.youtube.com/watch?t=3s&v=S4O5voOCqAQ)
+
+
+
+
 ## 25 Mai 2017 @Openfab
 meetup:  
 facebook:  
