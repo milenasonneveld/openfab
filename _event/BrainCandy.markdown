@@ -10,6 +10,21 @@ You bring snacks and or beer and come with your ideas.
 Videos are between 5 and 15 minutes, we like intermezzo's and discussions. 
 You can host the night, just be part of the slack, github or Meetup and give us the proposition!
 
+## 10 nov 2017 Benevélo weekend @OpenFab
+facebook : https://www.facebook.com/events/1343126512483637/
+
+**Playlist Transition écologique**
+
+Apéro
+(Activateurs d'esprits)
+- 
+The main dish
+(for thinking through)
+-
+Dessert
+(for digestion)
+-
+
 ## 14 oct 2017 @OpenFab
 facebook : https://www.facebook.com/events/136439860421404
 
